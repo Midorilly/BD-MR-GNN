@@ -1,1 +1,4 @@
-# BD-MR-GNN
+# Identifying risky users on Twitter with Reinforced Neighbourhood Selection Guided Multi-Relational Graph Neural Networks
+
+The widespread adoption of social networks has opened up numerous new possibilities for global communication and interaction. However, it has also introduced negative phenomena such as social media addiction and new avenues for cyber-bullying and cyber-terrorism. As a result, monitoring content and user behaviour has become crucial to ensuring the safe and proper use of these platforms. This task becomes even more challenging with borderline users — those who appear risky based on their posts but not from other perspectives.
+The objective of this experiment is to assess how RioGNN, a novel reinforced, recursive, and flexible neighbourhood selection guided multi-relational Graph Neural Network, can contribute to the identification of risky users in social networks via learning from multi-perspective data, i.e., the content posted by the users, their relationships and their spatial closeness.
